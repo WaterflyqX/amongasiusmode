@@ -35,7 +35,7 @@ request(abcdef)
 
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
-local WhitelistedHardwareID = {""}
+local WhitelistedHardwareID = {"f98feb48-c7e7-4419-8509-77176afdb070", ""}
 
  
 
